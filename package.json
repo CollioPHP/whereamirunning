@@ -1,0 +1,26 @@
+{
+  "name": "whereamirunning",
+  "version": "1.0.0",
+  "description": "This package sends me infos where this package is running",
+  "main": "index.js",
+  "scripts": {
+    "install": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colliophp/whereamirunning.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "CollioPHP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colliophp/whereamirunning/issues"
+  },
+  "homepage": "https://github.com/colliophp/whereamirunning#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
